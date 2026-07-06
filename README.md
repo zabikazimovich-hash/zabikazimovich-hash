@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,100:2575fc&height=260&section=header&text=Azizbek%20Zabiev&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://github.com/zabikazimovich-hash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer;Python+%7C+Django+%7C+PostgreSQL;JavaScript+%7C+HTML+%7C+CSS;Всегда+в+поиске+новых+технологий" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Backend%20%2B%20Frontend%20Developer;Python%20%7C%20Django%20%7C%20PostgreSQL;JavaScript%20%7C%20HTML%20%7C%20CSS;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%20%D0%B2%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B5%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" />
 </a>
 
 </div>
