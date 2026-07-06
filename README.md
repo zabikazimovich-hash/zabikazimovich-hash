@@ -103,11 +103,11 @@
 
 <br>
 
-## 🏆 Трофеи
+## 📈 График активности
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zabikazimovich-hash&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zabikazimovich-hash&theme=radical&hide_border=true" />
 
 </div>
 
