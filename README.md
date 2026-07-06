@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b894,100:0984e3&height=220&section=header&text=Azizbek%20Zabiev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a11cb,100:2575fc&height=260&section=header&text=Azizbek%20Zabiev&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
 
 <a href="https://github.com/zabikazimovich-hash">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer;Python+%7C+Django+%7C+PostgreSQL;JavaScript+%7C+HTML+%7C+CSS;Всегда+в+поиске+новых+технологий" alt="Typing SVG" />
