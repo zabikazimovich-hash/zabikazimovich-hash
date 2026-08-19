@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 Привет! Меня зовут **Азизбек Забиев** — full stack разработчик.
 Работаю как с бэкендом, так и с фронтендом: от баз данных и серверной логики до интерфейсов, с которыми взаимодействует пользователь.
@@ -39,9 +39,6 @@
 - 💬 Пишите смело — всегда открыт к общению и новым проектам
 
 </td>
-<td width="35%" align="center">
-<img src="./assets/coding-room.svg" width="280" alt="Азизбек работает над RenTa"/>
-</td>
 </tr>
 </table>
 
@@ -49,7 +46,7 @@
 
 <div align="center">
 
-<img src="./assets/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
+<img src="./assets/coding-room.svg" width="100%" alt="Азизбек работает над RenTa"/>
 
 </div>
 
