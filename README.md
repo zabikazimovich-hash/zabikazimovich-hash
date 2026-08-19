@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=58&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=800&height=80&lines=AZIZBEK+ZABIEV" alt="Azizbek Zabiev" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=58&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=800&height=80&lines=AZIZBEK+ZABIEV&repeat=false" alt="Azizbek Zabiev" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8CC5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;JavaScript+%7C+React+%7C+Next.js+%7C+React+Native;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D0%B2+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B5+%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" />
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src=".github/workflows/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
+<img src="./assets/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
 
 </div>
 
@@ -120,10 +120,11 @@
 <tr>
 <td width="70%" valign="middle">
 
-- 🏗️ Строю несколько продакшн-сервисов одновременно — от сервисов такси до платформы аренды недвижимости и AI-открыток
-- 📱 Активно разрабатываю на стеке **Telegram Mini App + веб-сайт + бот**, где все части делят одну базу данных
-- 🧩 Перехожу от MVP к масштабированию: тестирую продукты через Mini App перед запуском полноценных мобильных приложений
-- 🏠 Прямо сейчас в фокусе — **RenTa**: довожу маркетплейс аренды недвижимости до идеала
+- 🏗️ **Веду параллельно несколько продакшн-продуктов** — от сервисов такси до маркетплейса аренды недвижимости и AI-платформы открыток, доводя каждый до реального пользователя, а не до макета
+- 📱 **Строю связку "сайт + Telegram Mini App + бот"**, где все три точки входа работают на единой базе данных — это позволяет запускать продукт быстро и без дублирования логики
+- 🧪 **Прохожу путь от MVP к масштабированию**: сначала обкатываю идею через Telegram Mini App на живых пользователях, и только потом перехожу к полноценным мобильным приложениям
+- 🏠 **Сейчас в главном фокусе — RenTa**: полирую маркетплейс аренды недвижимости — каталог объектов, систему бронирований, CRM для владельцев и Telegram-бота, работающих на одной базе
+- 🎯 Параллельно держу в разработке **TTT-Taxi** и **TaxiApp** — сервисы такси с real-time трекингом поездок
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -154,9 +155,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&icon_color=8CC5FF&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&icon_color=8CC5FF&text_color=c9d1d9&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&text_color=c9d1d9">
@@ -204,100 +205,148 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb3349,100:f45c43&height=5&animation=fadeIn" width="100%"/>
 
 **🚕 TTT‑Taxi**
-![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat&labelColor=1a1a2e" />
 
 Приложения для водителей и пассажиров с real-time трекингом поездки на карте.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=reactnative,nestjs,postgres&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=5&animation=fadeIn" width="100%"/>
 
 **🚖 TaxiApp**
-![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat&labelColor=1a1a2e" />
 
 Веб-версия сервиса такси — заказ поездки прямо из браузера без установки приложения.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=5&animation=fadeIn" width="100%"/>
 
 **🏠 RenTa**
-![status](https://img.shields.io/badge/🟢_Почти_готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/🟢_Почти_готово-2ea44f?style=flat&labelColor=1a1a2e" />
 
 Маркетплейс аренды недвижимости: каталог, бронирования, CRM и Telegram-бот на одной базе.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=nextjs,postgres,redis&theme=dark" height="28"/>
+
 </td>
+
 </tr>
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=5&animation=fadeIn" width="100%"/>
 
 **🎉 Tabriklayman**
-![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat&labelColor=1a1a2e" />
 
 AI-платформа открыток: сайт, Telegram Mini App и бизнес-панель на одной базе данных.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,100:4ca1af&height=5&animation=fadeIn" width="100%"/>
 
 **🛡️ Protection**
-![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/✅_Готово-2ea44f?style=flat&labelColor=1a1a2e" />
 
 Сервис онлайн-защиты с авторизацией и защищёнными маршрутами, панель администратора.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=5&animation=fadeIn" width="100%"/>
 
 **🛍️ Ordery**
-![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/✅_Готово-2ea44f?style=flat&labelColor=1a1a2e" />
 
 Лёгкое веб-приложение для оформления заказов — быстрый интерфейс без лишних зависимостей.
 
-<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="28"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,html,nodejs&theme=dark" height="28"/>
+
 </td>
+
 </tr>
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=5&animation=fadeIn" width="100%"/>
 
 **💼 Portfolio**
-![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/✅_Готово-2ea44f?style=flat&labelColor=1a1a2e" />
 
 Личный сайт-визитка со всеми проектами и контактами, деплой на Heroku.
 
-<img src="https://skillicons.dev/icons?i=flask,heroku&theme=dark" height="28"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,flask,heroku&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f7971e,100:ffd200&height=5&animation=fadeIn" width="100%"/>
 
 **📊 RenTa Analytics**
-![status](https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat&labelColor=1a1a2e" />
 
 Дашборд метрик по объектам и сделкам — следующий шаг развития RenTa.
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=nextjs,postgres,ts&theme=dark" height="28"/>
+
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ee0979,100:ff6a00&height=5&animation=fadeIn" width="100%"/>
 
 **🤝 Tabriklayman Mobile**
-![status](https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat-square&labelColor=1a1a2e)
+
+<img src="https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat&labelColor=1a1a2e" />
 
 Мобильное приложение-компаньон для платформы открыток на React Native.
 
-<img src="https://skillicons.dev/icons?i=reactnative,nodejs&theme=dark" height="28"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=reactnative,ts,nodejs&theme=dark" height="28"/>
+
 </td>
+
 </tr>
 </table>
 
@@ -330,7 +379,7 @@ AI-платформа открыток: сайт, Telegram Mini App и бизн�
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/zabikazimovich-hash?label=Followers&style=for-the-badge&color=6a11cb&logo=github&logoColor=white)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzabikazimovich-hash&label=Repos&query=%24.public_repos&style=for-the-badge&color=2575fc&logo=github&logoColor=white)
+![Total Repos](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/zabikazimovich-hash/REPLACE_WITH_GIST_ID/raw/repo-count.json&style=for-the-badge&color=2575fc&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=zabikazimovich-hash&label=Просмотры%20профиля&color=00c6ff&style=for-the-badge)
 
 </div>
