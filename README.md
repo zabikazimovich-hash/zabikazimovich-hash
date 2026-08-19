@@ -22,6 +22,8 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
+
 ## 👋 Обо мне
 
 <table>
@@ -122,9 +124,21 @@
 
 ## 🚀 Чем занимаюсь сейчас
 
+<table>
+<tr>
+<td width="70%" valign="middle">
+
 - 🏗️ Строю несколько продакшн-сервисов одновременно — от сервисов такси до платформы аренды недвижимости и AI-открыток
 - 📱 Активно разрабатываю на стеке **Telegram Mini App + веб-сайт + бот**, где все части делят одну базу данных
 - 🧩 Перехожу от MVP к масштабированию: тестирую продукты через Mini App перед запуском полноценных мобильных приложений
+- 🏠 Прямо сейчас в фокусе — **RenTa**: довожу маркетплейс аренды недвижимости до идеала
+
+</td>
+<td width="30%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="150"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -148,10 +162,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.details=percentage&achievements=1&achievements.threshold=C&habits=1&habits.charts=1&habits.from=200&config.timezone=Asia%2FTashkent&config.animations=1&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.details=percentage&achievements=1&achievements.threshold=C&habits=1&habits.charts=1&habits.from=200&config.timezone=Asia%2FTashkent&config.animations=1&theme=default">
-  <img src="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.details=percentage&achievements=1&achievements.threshold=C&habits=1&habits.charts=1&habits.from=200&config.timezone=Asia%2FTashkent&config.animations=1&theme=dark" width="100%" alt="GitHub Metrics"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=default">
+  <img src="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=dark" width="100%" alt="GitHub Metrics"/>
 </picture>
+
+<sub>Если карточка не подгрузилась с первого раза — обнови страницу, сервис иногда "прогревается" при первом обращении.</sub>
 
 </div>
 
