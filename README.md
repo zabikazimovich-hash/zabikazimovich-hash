@@ -51,11 +51,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=8&section=header&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=8&section=header&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,50:2575fc,100:00c6ff&height=8&section=header&animation=fadeIn" width="100%"/>
-</picture>
+<img src="./assets/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
 
 </div>
 
