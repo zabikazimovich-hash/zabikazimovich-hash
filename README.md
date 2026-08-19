@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
+<img src=".github/workflows/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
 
 </div>
 
