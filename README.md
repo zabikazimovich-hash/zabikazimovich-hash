@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="./assets/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
+<img src="/renta-terminal.svg" width="100%" alt="Работа над RenTa"/>
 
 </div>
 
