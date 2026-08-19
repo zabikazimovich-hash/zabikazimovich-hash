@@ -40,7 +40,7 @@
 
 </td>
 <td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="220"/>
+<img src="./assets/coding-room.svg" width="280" alt="Азизбек работает над RenTa"/>
 </td>
 </tr>
 </table>
@@ -155,14 +155,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&icon_color=8CC5FF&text_color=c9d1d9&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&icon_color=8CC5FF&text_color=c9d1d9&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true&cache_seconds=86400">
+  <img src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true" width="42%" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&text_color=c9d1d9&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=default&hide_border=true&cache_seconds=86400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true&cache_seconds=86400" width="42%" alt="Top Languages"/>
 </picture>
 
 <br>
@@ -379,7 +379,7 @@ AI-платформа открыток: сайт, Telegram Mini App и бизн�
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/zabikazimovich-hash?label=Followers&style=for-the-badge&color=6a11cb&logo=github&logoColor=white)
-![Total Repos](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/zabikazimovich-hash/REPLACE_WITH_GIST_ID/raw/repo-count.json&style=for-the-badge&color=2575fc&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzabikazimovich-hash&label=Repos&query=%24.public_repos&style=for-the-badge&color=2575fc&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=zabikazimovich-hash&label=Просмотры%20профиля&color=00c6ff&style=for-the-badge)
 
 </div>
