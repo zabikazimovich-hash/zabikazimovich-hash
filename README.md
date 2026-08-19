@@ -6,6 +6,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=260&section=header&text=Azizbek%20Zabiev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </picture>
 
+# Azizbek Zabiev
+
 <a href="https://github.com/zabikazimovich-hash">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=Backend+%2B+Frontend+Developer;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;JavaScript+%7C+React+%7C+Next.js;%D0%92%D1%81%D0%B5%D0%B3%D0%B4%D0%B0+%D0%B2+%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B5+%D0%BD%D0%BE%D0%B2%D1%8B%D1%85+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" />
 </a>
@@ -13,6 +15,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=zabikazimovich-hash&label=Просмотры%20профиля&color=2575fc&style=flat" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/zabikazimovich-hash?label=Followers&style=flat&color=2575fc" alt="Followers"/>
 
 </div>
 
@@ -83,6 +86,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Telegram%20Bot%20API](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,react,nextjs,nodejs,postgres,docker,git,figma&theme=dark" />
+</a>
 
 </div>
 
@@ -158,6 +167,16 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/zabikazimovich-hash/zabikazimovich-hash/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br>
+
+## 🏆 Трофеи
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zabikazimovich-hash&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
