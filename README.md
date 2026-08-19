@@ -116,23 +116,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=default&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=default&hide_border=true">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=radical&hide_border=true" />
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zabikazimovich-hash&theme=radical&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zabikazimovich-hash&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zabikazimovich-hash&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zabikazimovich-hash&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=zabikazimovich-hash&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=zabikazimovich-hash&theme=radical&hide_border=true" />
 </picture>
 
 </div>
@@ -157,11 +157,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabikazimovich-hash/zabikazimovich-hash/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabikazimovich-hash/zabikazimovich-hash/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/zabikazimovich-hash/zabikazimovich-hash/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/zabikazimovich-hash/zabikazimovich-hash/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -189,15 +185,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=100&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=100&section=footer" width="100%"/>
 </picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=zabikazimovich-hash&color=00b894&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0984e3,100:00b894&height=100&section=footer" width="100%"/>
 
 </div>
