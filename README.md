@@ -154,12 +154,23 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=default">
-  <img src="https://metrics.lecoq.io/zabikazimovich-hash?template=classic&base.header=1&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.details=percentage&config.animations=1&theme=dark" width="100%" alt="GitHub Metrics"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&icon_color=8CC5FF&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=zabikazimovich-hash&show_icons=true&theme=react&hide_border=true" width="49%" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true&bg_color=00000000&title_color=00c6ff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabikazimovich-hash&layout=compact&theme=react&hide_border=true" width="42%" alt="Top Languages"/>
 </picture>
 
-<sub>Если карточка не подгрузилась с первого раза — обнови страницу, сервис иногда "прогревается" при первом обращении.</sub>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zabikazimovich-hash&theme=react&hide_border=true&background=00000000&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=zabikazimovich-hash&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=zabikazimovich-hash&theme=react&hide_border=true" width="60%" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
@@ -191,62 +202,86 @@
 
 ## 📌 Проекты
 
-<div align="center">
-
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eb3349,100:f45c43&height=5&animation=fadeIn" width="100%"/>
 
-**🚕 TTT‑Taxi** · 🚧 В разработке
-<sub>Приложения для водителей и пассажиров на React Native, бэкенд NestJS + Prisma + PostgreSQL, real-time трекинг через Socket.io, файлы на AWS.</sub>
+**🚕 TTT‑Taxi**
+![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
+Приложения для водителей и пассажиров, real-time трекинг поездки, хранение файлов в облаке.
+
+<img src="https://skillicons.dev/icons?i=reactnative,nestjs,prisma,postgres,socketio,aws&theme=dark" height="28"/>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=5&animation=fadeIn" width="100%"/>
 
-**🚖 TaxiApp** · 🚧 В разработке
-<sub>Веб-версия сервиса такси: React + Express + Prisma, заказ поездок через браузер.</sub>
+**🚖 TaxiApp**
+![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
+Веб-версия сервиса такси — заказ поездки прямо из браузера, без установки приложения.
+
+<img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=5&animation=fadeIn" width="100%"/>
 
-**🏠 RenTa** · 🟢 Почти готово
-<sub>Маркетплейс аренды и продажи недвижимости: Next.js + Telegram-бот на общей БД, личный кабинет, каталог, бронирования, CRM.</sub>
+**🏠 RenTa**
+![status](https://img.shields.io/badge/🟢_Почти_готово-2ea44f?style=flat-square&labelColor=1a1a2e)
 
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+Маркетплейс аренды и продажи недвижимости: каталог, бронирования, личный кабинет, CRM. Сайт и Telegram-бот на одной базе данных.
 
-**🎉 Tabriklayman** · 🚧 В разработке
-<sub>AI-платформа поздравительных открыток: сайт, Telegram Mini App, мобильное приложение, бизнес-панель на общей БД.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🛡️ Protection** · ✅ Готово
-<sub>Сервис онлайн-защиты: React + Express + Prisma, авторизация, защищённые маршруты.</sub>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**🛍️ Ordery** · ✅ Готово
-<sub>Лёгкое веб-приложение для оформления заказов — быстрый интерфейс без лишних зависимостей.</sub>
-
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,redis&theme=dark" height="28"/>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=5&animation=fadeIn" width="100%"/>
 
-**💼 Portfolio** · ✅ Готово
-<sub>Личный сайт-портфолио на Flask, деплой на Heroku — визитка со всеми проектами и контактами.</sub>
+**🎉 Tabriklayman**
+![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
+AI-платформа поздравительных открыток: сайт, Telegram Mini App, мобильное приложение и бизнес-панель на одной базе данных.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs&theme=dark" height="28"/>
+</td>
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,100:4ca1af&height=5&animation=fadeIn" width="100%"/>
+
+**🛡️ Protection**
+![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+Сервис онлайн-защиты: авторизация, защищённые маршруты, административная панель.
+
+<img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
+</td>
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=5&animation=fadeIn" width="100%"/>
+
+**🛍️ Ordery**
+![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+Лёгкое веб-приложение для оформления заказов — быстрый интерфейс без лишних зависимостей.
+
+<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="28"/>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=5&animation=fadeIn" width="100%"/>
+
+**💼 Portfolio**
+![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
+
+Личный сайт-портфолио — визитка со всеми проектами и контактами, деплой на Heroku.
+
+<img src="https://skillicons.dev/icons?i=flask,heroku&theme=dark" height="28"/>
 </td>
 <td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
-
-</div>
 
 <br>
 
