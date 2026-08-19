@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="./assets/coding-room.svg" width="100%" alt="Азизбек работает над RenTa"/>
+<img src=".github/workflows/renta-terminal.svg" alt="RenTa"/>
 
 </div>
 
