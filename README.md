@@ -210,9 +210,9 @@
 **🚕 TTT‑Taxi**
 ![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
-Приложения для водителей и пассажиров, real-time трекинг поездки, хранение файлов в облаке.
+Приложения для водителей и пассажиров с real-time трекингом поездки на карте.
 
-<img src="https://skillicons.dev/icons?i=reactnative,nestjs,prisma,postgres,socketio,aws&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=reactnative,nestjs,postgres&theme=dark" height="28"/>
 </td>
 <td width="33%" valign="top">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=5&animation=fadeIn" width="100%"/>
@@ -220,7 +220,7 @@
 **🚖 TaxiApp**
 ![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
-Веб-версия сервиса такси — заказ поездки прямо из браузера, без установки приложения.
+Веб-версия сервиса такси — заказ поездки прямо из браузера без установки приложения.
 
 <img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
 </td>
@@ -230,7 +230,7 @@
 **🏠 RenTa**
 ![status](https://img.shields.io/badge/🟢_Почти_готово-2ea44f?style=flat-square&labelColor=1a1a2e)
 
-Маркетплейс аренды и продажи недвижимости: каталог, бронирования, личный кабинет, CRM. Сайт и Telegram-бот на одной базе данных.
+Маркетплейс аренды недвижимости: каталог, бронирования, CRM и Telegram-бот на одной базе.
 
 <img src="https://skillicons.dev/icons?i=nextjs,postgres,redis&theme=dark" height="28"/>
 </td>
@@ -242,7 +242,7 @@
 **🎉 Tabriklayman**
 ![status](https://img.shields.io/badge/🚧_В_разработке-dc7633?style=flat-square&labelColor=1a1a2e)
 
-AI-платформа поздравительных открыток: сайт, Telegram Mini App, мобильное приложение и бизнес-панель на одной базе данных.
+AI-платформа открыток: сайт, Telegram Mini App и бизнес-панель на одной базе данных.
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs&theme=dark" height="28"/>
 </td>
@@ -252,7 +252,7 @@ AI-платформа поздравительных открыток: сайт,
 **🛡️ Protection**
 ![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
 
-Сервис онлайн-защиты: авторизация, защищённые маршруты, административная панель.
+Сервис онлайн-защиты с авторизацией и защищёнными маршрутами, панель администратора.
 
 <img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" height="28"/>
 </td>
@@ -274,12 +274,30 @@ AI-платформа поздравительных открыток: сайт,
 **💼 Portfolio**
 ![status](https://img.shields.io/badge/✅_Готово-2ea44f?style=flat-square&labelColor=1a1a2e)
 
-Личный сайт-портфолио — визитка со всеми проектами и контактами, деплой на Heroku.
+Личный сайт-визитка со всеми проектами и контактами, деплой на Heroku.
 
 <img src="https://skillicons.dev/icons?i=flask,heroku&theme=dark" height="28"/>
 </td>
-<td width="33%"></td>
-<td width="33%"></td>
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f7971e,100:ffd200&height=5&animation=fadeIn" width="100%"/>
+
+**📊 RenTa Analytics**
+![status](https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat-square&labelColor=1a1a2e)
+
+Дашборд метрик по объектам и сделкам — следующий шаг развития RenTa.
+
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,ts&theme=dark" height="28"/>
+</td>
+<td width="33%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ee0979,100:ff6a00&height=5&animation=fadeIn" width="100%"/>
+
+**🤝 Tabriklayman Mobile**
+![status](https://img.shields.io/badge/💡_В_планах-9b59b6?style=flat-square&labelColor=1a1a2e)
+
+Мобильное приложение-компаньон для платформы открыток на React Native.
+
+<img src="https://skillicons.dev/icons?i=reactnative,nodejs&theme=dark" height="28"/>
+</td>
 </tr>
 </table>
 
